@@ -1,4 +1,4 @@
-# Small, Simple Bedside Alarm Clock
+# Bedside Alarm Clock
 
 A small bedside alarm clock built using a LOLA ESP32-C3!
 
