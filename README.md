@@ -94,6 +94,7 @@ A 3D printed case built to house the hardware (the PCB breadboard, ESP32, TFT Di
 | Jumper wires | - | Male/male, male/female, female/female |
 | Case | 1 | 3D printed or custom enclosure |
 
+
 *Built by Hiba*
 
 **Built for Blare, A Hackclub YSWS**
