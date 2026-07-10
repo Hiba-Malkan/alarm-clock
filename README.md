@@ -1,8 +1,6 @@
-# ESP32-C3 Alarm Clock
+# Small, Simple Bedside Alarm Clock
 
 A small bedside alarm clock built using a LOLA ESP32-C3!
-
-![alt text](images/image1.png)
 
 ## Features
 - Syncs the clock over Wi-Fi using NTP on boot
@@ -34,7 +32,11 @@ A 3D printed case built to house the hardware (the PCB breadboard, ESP32, TFT Di
 
 ![alt text](images/image2.png)
 
+![alt text](images/image1.png)
+
 ## Wiring
+
+![alt text](images/image.png)
 
 ### TFT display
 
@@ -63,8 +65,6 @@ A 3D printed case built to house the hardware (the PCB breadboard, ESP32, TFT Di
 | RIGHT | 4 |
 | OK | 5 |
 | SNOOZE | 18 |
-
-![alt text](images/image.png)
 
 ## Controls
 
