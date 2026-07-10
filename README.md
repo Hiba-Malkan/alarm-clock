@@ -36,14 +36,14 @@ A 3d printed case built to house the hardware (the PCB breadboard, ESP32, TFT Di
 
 Display pin | ESP32-C3 pin
 
-VCC - 3.3V 
-GND - GND
-SCL - GPIO 6
-SDA - GPIO 7
-RES - GPIO 10
-DC - GPIO 8
-CS - GPIO 20
-BL - 3.3V
+- VCC - 3.3V 
+- GND - GND
+- SCL - GPIO 6
+- SDA - GPIO 7
+- RES - GPIO 10
+- DC - GPIO 8
+- CS - GPIO 20
+- BL - 3.3V
 
 ### Buzzer
 - Positive lead - GPIO 21
@@ -53,12 +53,12 @@ BL - 3.3V
 
 Button | GPIO
 
-UP - 0
-DOWN - 1
-LEFT - 3
-RIGHT - 4
-OK - 5
-SNOOZE - 18
+- UP - 0
+- DOWN - 1
+- LEFT - 3
+- RIGHT - 4
+- OK - 5
+- SNOOZE - 18
 
 ## Controls
 
